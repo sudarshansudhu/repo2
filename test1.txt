@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3A19-AAD3
+
+ Directory of C:\Users\saravana\Desktop\myfolder
+
+11/27/2018  06:44 PM    <DIR>          .
+11/27/2018  06:44 PM    <DIR>          ..
+11/27/2018  06:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  290,888,122,368 bytes free
